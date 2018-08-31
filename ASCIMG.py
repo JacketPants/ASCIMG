@@ -80,12 +80,9 @@ def InitFont():
         FONTHASH.append(Hash(img))
 
 
-# TESTIMG = ['testimg0.jpg', 'testimg1.jpg',
-#            'testimg2.jpg', 'testimg3.jpg', 'testimg4.jpg']
-
-
-TESTIMG = ['testimg1.jpg',
+TESTIMG = ['testimg0.jpg', 'testimg1.jpg',
            'testimg2.jpg', 'testimg3.jpg', 'testimg4.jpg']
+
 
 if __name__ == '__main__':
 
